@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "start": "ts-node src/app.ts"
+    "start": "ts-node src/app.ts"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +13,11 @@
   "devDependencies": {
     "ts-node": "^10.9.1",
     "typescript": "^5.3.2"
+  },
+  "dependencies": {
+    "@grammyjs/i18n": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "grammy": "^1.19.2",
+    "telegraf-middleware-console-time": "^2.1.0"
   }
 }
