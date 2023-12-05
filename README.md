@@ -1,5 +1,3 @@
-GitHub Copilot: # README.md
-
 ## Telegram TypeScript Bot Template
 
 This project is a template for creating a Telegram bot using TypeScript. It includes a variety of features and utilities to help you get started with bot development.
