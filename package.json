@@ -16,8 +16,12 @@
   },
   "dependencies": {
     "@grammyjs/i18n": "^1.0.1",
+    "@grammyjs/stateless-question": "^3.0.1",
     "dotenv": "^16.3.1",
     "grammy": "^1.19.2",
+    "grammy-inline-menu": "^8.0.1",
+    "grammy-middlewares": "^1.0.11",
+    "mongoose": "^8.0.2",
     "telegraf-middleware-console-time": "^2.1.0"
   }
 }
